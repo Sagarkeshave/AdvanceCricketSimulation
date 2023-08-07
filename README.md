@@ -30,7 +30,7 @@ git clone https://github.com/Sagarkeshave/AdvanceCricketSimulation.git
 cd AdvancedCricketTournament
 ```
 
-3. Run the `main.py` file to start the simulation:
+3. Run the `Main.py` file to start the simulation:
 ```
-python main.py
+python Main.py
 ```
