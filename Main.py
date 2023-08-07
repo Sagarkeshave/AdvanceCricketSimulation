@@ -358,6 +358,6 @@ team2 = Team("MI", players_2)
 field = Field("Large", 0.7, 0.8, 0.9)
 
 # starting match simulation
-total_overs = 2
+total_overs = 10
 match = Match(team1, team2, field, total_overs)
 match.start_match()
