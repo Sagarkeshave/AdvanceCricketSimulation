@@ -27,7 +27,7 @@ git clone https://github.com/Sagarkeshave/AdvanceCricketSimulation.git
 
 2. Navigate to the project directory:
 ```
-cd AdvancedCricketTournament
+cd AdvanceCricketSimulation
 ```
 
 3. Run the `Main.py` file to start the simulation:
